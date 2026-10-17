@@ -1,0 +1,6 @@
+{
+  "name": "Priya AI",
+  "description": "Smart Hindi AI Companion & Jarvis Assistant with voice, emotional support, app launcher, calling, messages, and Mummy care routine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
